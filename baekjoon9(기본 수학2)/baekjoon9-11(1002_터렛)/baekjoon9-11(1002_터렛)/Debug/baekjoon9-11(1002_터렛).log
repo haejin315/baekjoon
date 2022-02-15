@@ -1,0 +1,4 @@
+﻿  baekjoon9-11(1002_터렛).cpp
+C:\Users\haeji\Desktop\백준\baekjoon9(기본 수학2)\baekjoon9-11(1002_터렛)\baekjoon9-11(1002_터렛)\baekjoon9-11(1002_터렛).cpp(18,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeji\Desktop\백준\baekjoon9(기본 수학2)\baekjoon9-11(1002_터렛)\baekjoon9-11(1002_터렛)\baekjoon9-11(1002_터렛).cpp(19,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  baekjoon9-11(1002_터렛).vcxproj -> C:\Users\haeji\Desktop\백준\baekjoon9(기본 수학2)\baekjoon9-11(1002_터렛)\Debug\baekjoon9-11(1002_터렛).exe

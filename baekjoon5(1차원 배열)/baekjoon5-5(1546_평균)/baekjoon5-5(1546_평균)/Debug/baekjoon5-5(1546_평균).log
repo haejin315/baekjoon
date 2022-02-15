@@ -1,0 +1,3 @@
+﻿  baekjoon5-5(1546_평균).cpp
+C:\Users\haeji\Desktop\백준\baekjoon5(1차원 배열)\baekjoon5-5(1546_평균)\baekjoon5-5(1546_평균)\baekjoon5-5(1546_평균).cpp(17,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  baekjoon5-5(1546_평균).vcxproj -> C:\Users\haeji\Desktop\백준\baekjoon5(1차원 배열)\baekjoon5-5(1546_평균)\Debug\baekjoon5-5(1546_평균).exe
