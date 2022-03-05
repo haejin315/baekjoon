@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7576812a-5909-4007-b8ae-c7543563ee98": {
+      "ProjectGuid": "7576812a-5909-4007-b8ae-c7543563ee98",
+      "DisplayName": "baekjoon15-13(2565_전깃줄)",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
