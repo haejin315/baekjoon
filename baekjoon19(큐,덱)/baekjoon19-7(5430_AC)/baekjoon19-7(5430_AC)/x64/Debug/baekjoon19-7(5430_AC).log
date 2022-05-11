@@ -1,4 +1,0 @@
-﻿  source.cpp
-C:\Users\haeji\GitHub\baekjoon\baekjoon19(큐,덱)\baekjoon19-7(5430_AC)\baekjoon19-7(5430_AC)\source.cpp(20,26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\haeji\GitHub\baekjoon\baekjoon19(큐,덱)\baekjoon19-7(5430_AC)\baekjoon19-7(5430_AC)\source.cpp(21,31): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  baekjoon19-7(5430_AC).vcxproj -> C:\Users\haeji\GitHub\baekjoon\baekjoon19(큐,덱)\baekjoon19-7(5430_AC)\x64\Debug\baekjoon19-7(5430_AC).exe
